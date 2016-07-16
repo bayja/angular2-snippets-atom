@@ -16,7 +16,7 @@
         template: require('${2:templateUrl}'),
         directives: [],
         providers: [],
-        styleUrls: [],
+        styles: [],
         pipes: []
     })
 
