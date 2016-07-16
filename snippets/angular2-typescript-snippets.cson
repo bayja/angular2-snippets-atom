@@ -13,7 +13,7 @@
 
     @Component({
         selector: '${1:selector}',
-        templateUrl: '${2:templateUrl}',
+        template: require('${2:templateUrl}'),
         directives: [],
         providers: [],
         styleUrls: [],
